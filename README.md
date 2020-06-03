@@ -1,6 +1,6 @@
 # siteWater
-Water sale website. The focus of this repository is just to create a sales system. Be free to help. 
+Site de vendas de garrafas d'água. O foco desse repositório é só criar um sistema de vendas. 
 
-Technologies that i pretend to use:
-- HTML, CSS, JavaScript, Bootstrap.
-- Maybe i'll use python or php, i don't know yet.
+Tecnologias que eu prentendo usar:
+- HTML, CSS, JavaScript, Bootstrap, Python.
+
